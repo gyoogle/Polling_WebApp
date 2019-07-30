@@ -1,4 +1,4 @@
-# Polling_App
+# Polling_WebApp
 
 > Spring Boot와 React 기반 polling 웹 애플리케이션 만들기
 
