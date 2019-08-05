@@ -32,11 +32,11 @@
 
 ---
 
-**Part 1** : 프로젝트 생성 및 기본 도메인 모델과 레포지토리 생성
+**Part 1** : [프로젝트 생성 및 기본 도메인 모델과 레포지토리 생성](<https://github.com/kim6394/Polling_WebApp/blob/master/documents/%5B1%EB%B6%80%5D.md>)
 
-**Part 2** : JWT 인증과 함께 Spring Security 구성 및 로그인 및 SignUp을위한 Rest API 빌드
+**Part 2** : [JWT 인증과 함께 Spring Security 구성 및 로그인 및 SignUp을위한 Rest API 빌드](<https://github.com/kim6394/Polling_WebApp/blob/master/documents/%5B2%EB%B6%80%5D.md>)
 
-**Part 3** :설문 조사 작성, 설문 조사에 대한 투표, 사용자 프로필 검색 등을위한 나머지 API 작성
+**Part 3** : [설문 조사 작성, 설문 조사에 대한 투표, 사용자 프로필 검색 등을위한 나머지 API 작성](<https://github.com/kim6394/Polling_WebApp/blob/master/documents/%5B3%EB%B6%80%5D.md>)
 
 **Part 4** : React와 Ant 디자인을 사용하여 프론트 엔드 구현하기
 
